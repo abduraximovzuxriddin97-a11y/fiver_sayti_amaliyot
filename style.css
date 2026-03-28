@@ -156,7 +156,7 @@ video{
 
 
 .search_input:focus {
-    border: none;
+    outline: none;
 }
 
 
