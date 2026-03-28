@@ -151,14 +151,8 @@ video{
     padding-right: 870px;
     padding-left: 30px;
     border-radius: 10px;
-    border: none;
-}
-
-
-.search_input:focus {
     outline: none;
 }
-
 
 .newsearch{
     position: absolute;
